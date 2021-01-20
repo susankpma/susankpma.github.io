@@ -52,30 +52,59 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML",
+        "CSS",
+        "SQL"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "OS",
       "level": "",
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Windows Server"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2024)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2020-01-13",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Hawaii Pacific University, Honolulu, HI",
+      "area": "Information Systems (graduated Spring, 2004)",
+      "studyType": "M.S.",
+      "startDate": "2012-09-01",
+      "endDate": "2004-05-01",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii Kapiolani Community College, Honolulu, HI",
+      "area": "Information Technology (graduated Summer, 2001)",
+      "studyType": "A.S.",
+      "startDate": "1999-01",
+      "endDate": "2001-08",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Spanish (graduated Fall, 1998)",
+      "studyType": "B.A.",
+      "startDate": "1994-08",
+      "endDate": "1998-12",
       "gpa": "",
       "courses": [
       ]
@@ -83,69 +112,80 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa College of Social Sciences ACCESS (Advising, Civic and Community Engagement in the Social Sciences)",
+      "position": "IT Specialist",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2015-02",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Provide IT support to ACCESS advising and engagement initiatives and projects",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Wrote SQL code to migrate legacy solutions to be more robust and scalable",
+        "Implemented a paperless solution according to university, state, and federal guidelines",
+        "Part of college's collaboration team to transition paper processes to electronic workflow"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Colleges of Arts and Sciences Student Academic Services (CASSAS)",
+      "position": "IT Specialist",
+      "website": "",
+      "startDate": "2011-11-01",
+      "endDate": "2015-2",
+      "summary": "Provided IT support to CASSAS advisors, staff, and student assistants",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Troubleshoot software, hardware and networking",
+        "Planned, created, tested, and implemented software according to advisor's specifications",
+        "Supervise and managed computer student assistants tasks and projects"
       ]
     },
     {
-      "organization": "",
+      "company": "Windward Community College",
+      "position": "IT Specialist",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2009-02-02",
+      "endDate": "2011-10-31",
+      "summary": "Provided IT help desk support to the entire campus",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Troubleshoot software, hardware and networking",
+        "Planned and implemented hardware replacement and rolldown schedules",
+        "Planned and implemented computer OS and software refreshes performed every semester",
+        "Supervise and managed computer student assistants tasks and projects"
+      ]
+    },
+    {
+      "company": "Susan Ma",
+      "position": "IT Consultant",
+      "website": "",
+      "startDate": "2007-09",
+      "endDate": "2009-02",
+      "summary": "Created IT solutions for clients",
+      "highlights": [
+        "Met with clients to gather software needs and requirements",
+        "Wrote code, tested, and modified software solution",
+        "Wrote deliverables and documentation"
+      ]
+    },
+    {
+      "company": "Oceanit Laboraties",
+      "position": "IT Specialist",
+      "website": "",
+      "startDate": "2004-06",
+      "endDate": "2007-09",
+      "summary": "Provide IT help desk and software support for main and neighbor island offices",
+      "highlights": [
+        "Troubleshoot software, hardware and networking",
+        "Met with clients to gather software requirements", 
+        "Wrote and tested code according to software requirements",
+        "Wrote software documentation and deliverables"
       ]
     }
   ],
+  
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Chancellor's Award for Outstanding Service",
+      "date": "2011",
+      "awarder": "Windward Community College",
+      "summary": ""
     }
   ],
   "references": [
