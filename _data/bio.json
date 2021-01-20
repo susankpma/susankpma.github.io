@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Susan Ma",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://susankpma.github.io/images/susan.jpeg",
+    "email": "susanm@hawaii.edu",
+    "phone": "",
+    "website": "https://susankpma.github.io",
+    "summary": "I am second degree part-time student pursuing a B.S. in Computer Science. My expected graduation is Fall 2024.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,29 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "susankpma",
+        "url": "http://github.com/susankpma"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "susanm@hawaii.edu",
+        "url": "http://www.linkedin.com/in/susan-ma-a9919912"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
+      "name": "database",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "networking",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "cyber security",
       "keywords": [
       ]
     }
