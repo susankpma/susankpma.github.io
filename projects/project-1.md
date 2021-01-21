@@ -12,9 +12,7 @@ labels:
 summary: My office was the pilot group for the UH Information Technology Services (ITS) OnBase solution for advising.
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/OnBase.png">
-</div>
+
 
 OnBase by Hyland is a web-based document imaging solution. The software captures documents and data, manages information in one system, and stores, protects, and destroys content securely.
 
