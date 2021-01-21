@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/simplemachines.png
+image: images/simplemachine.png
 title: Simple Machines Making Life Easier
 permalink: projects/simplemachines
 # All dates must be YYYY-MM-DD format!
