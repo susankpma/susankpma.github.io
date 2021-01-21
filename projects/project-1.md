@@ -5,7 +5,7 @@ image: images/OnBase.png
 title: OnBase
 permalink: projects/onbase
 # All dates must be YYYY-MM-DD format!
-date: 2018-06-01 till 2019-07-01
+date: 2018-06-01
 labels:
   - Project Management
   - Document Imaging
