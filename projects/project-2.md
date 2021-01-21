@@ -1,22 +1,19 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: images/simplemachines.png
+title: Simple Machines Making Life Easier
+permalink: projects/simplemachines
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2014-04-29
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Instructional Design
+summary: An instructional design on the concept of Simple Machines for ETEC 613 Dr. Fulford.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/simplemachines.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Professor Newton Presents: Simple Machines was an instructional design project my teammate and I worked on for ETEC 613. 
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
