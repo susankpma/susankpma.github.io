@@ -1,61 +1,25 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/access.png
+title: UHM Catalog Office scheduling reports
+permalink: projects/scheduling
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-01-15
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - SQL
+  - Database
+  - Microsoft Access
+summary: A database for UHM scheduling reports for the UHM Catalog Office.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="/images/schedulingdb.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I was asked to design, write, and test a new version of a legacy database system in Microsoft Access for the UHM Catalog Office. For several weeks, I met with the end user to gather and understand the functional requirements of the database system. The end user provided the guidelines and sample paper reports that the system needed to generate. The end user also performed extensive testing to catch things I may have overlooked.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The final system functionalities using a main menu:
+end user selects a Microsoft Excel file to import
+the SQL code imports the data and adds the records in the appropriate tables
+based on course(s) selected, generate reports that can be exported as PDF or displayed on screen
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This was the first project I worked on with an external department. I gained skills on conducting client meetings as well as learning about how courses are scheduled at UHM. Since the first iteration of the database, I have been asked to create additional functionalities.
