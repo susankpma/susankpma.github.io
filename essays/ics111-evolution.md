@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui tiny left circular floated image" src="../images/ics111.jpg">
+<img class="ui tiny left circular floated image" src="../images/ics111.png">
 
 When I first started my academic journey back in the mid 1990s, I was interested in the computer science program and declared it as my major. Computers back then were big, slow, and expensive. The Internet was still being developed and connected to it required the use of a modem and calling the UH modem pool. In 1996, I took my first ICS 111 Computer Science I taught by Dr. Peterson and the coding language was Pascal, a top-down programming language. Dr. Peterson was excellent at teaching all the concepts and using visuals and the blackboard to help student understanding. I recall Dr. Peterson using numbers printed on cardboard tiles and iterating through code to sort numbers in ascending order. 
 
