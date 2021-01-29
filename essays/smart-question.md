@@ -11,7 +11,7 @@ labels:
 
 “How To Ask Questions The Smart Way” by Eric Steven Raymond is a useful essay that guides developers on how effectively they should ask questions on forums, newsgroups, and email.
 
-On StackOverflow, I found two examples of a smart way and not smart way to a question. The  [“How to connect to SQL Server in Win7 virtual machine from Mac host?”](https://stackoverflow.com/questions/26149305/how-to-connect-to-sql-server-in-win7-virtual-machine-from-mac-host) by Vincent is a smart way to ask a question, while [“Does this code look correct?”] (https://stackoverflow.com/questions/12183606/does-this-code-look-correct) by Phill Fernandes is not a smart way.
+On StackOverflow, I found two examples of a smart way and not smart way to a question. The  [“How to connect to SQL Server in Win7 virtual machine from Mac host?”](https://stackoverflow.com/questions/26149305/how-to-connect-to-sql-server-in-win7-virtual-machine-from-mac-host) by Vincent is a smart way to ask a question, while [“Does this code look correct?”](https://stackoverflow.com/questions/12183606/does-this-code-look-correct) by Phill Fernandes is not a smart way.
 
 Vincent’s question sought assistance on how to connect to a SQL Server Express from Navicat which are both hosted on a Mac. The developer provided background and network information on the virtualized Windows 7 with the SQL Server Express. The developer then describes which host applications (Apache), protocols (telnet), and ports that are able to connect to the SQL Server and the applications (Navicat) that could not. Vincent also describes the steps taken to resolve the issue as well as providing the SQL Server configuration.
 
