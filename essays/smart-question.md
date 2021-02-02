@@ -26,6 +26,7 @@ Based on Eric Raymond’s essay, this question violates several of the principle
 The responses to the developer were similar to the examples Raymond provided. One of the responses was “Have you actually tested it to see if it works?” and another refers them to a Stack Exchange website. Not all the responses were unhelpful. A reviewer actually posted the correct syntax and pointed out the error in their code, which turned out to be the developer’s choice of using a reserved word for a variable name.
 
 References
+
 [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html)
 StackOverflow
 
