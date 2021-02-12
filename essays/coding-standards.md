@@ -9,7 +9,7 @@ labels:
   - Programming
 ---
 
-<img class="ui large right spaced image" src="../images/codequality.png">
+<img class="ui  right spaced image" src="../images/codequality.png">
 
 Coding standards are a great way for new programmers to develop best practice habits when starting out. These standards provide a structure, helps with syntax (won’t help with logic), and promotes cohesion within the team. The code conforming to these standards becomes easily readable and reduces downtime and money when new team members join the project. The standards may also reduce unnecessary overhead, like declaring extraneous variables. This may not matter in small scale projects, however, in larger projects, these extra variables may cost memory allocation or processing time.
 
