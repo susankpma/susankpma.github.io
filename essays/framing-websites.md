@@ -22,4 +22,4 @@ My experience with HTML and CSS goes back to the late 1990s where websites were 
 
 When I started learning and using Semantic UI, some of the concepts and elements were the same as Bootstrap. They both control elements and layout through "class". In Semantic UI, the one thing that stood out for me was the "plain English" approach to creating and styling elements. Bootstrap is a bit more prescribed in their classes. For example, in a grid, if I wanted a two wide column in Semantic UI would be class="two wide column" versus in Bootstrap a column would be class="col-sm-2", where sm indicates class for screen size.
 
-Regardless of the nuances between the different frameworks, using them provides consistency and reduces the time needed to control the look and flow and focuses on the function and content of the website. Developers do not need to create from scratch.
+Regardless of the nuances between the different frameworks, using them provides consistency, reduces the time needed to control the look and flow, and focuses on the function and content of the website. Developers do not need to create from scratch.
